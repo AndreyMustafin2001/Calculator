@@ -4,6 +4,10 @@
 #include <QPushButton>
 #include <QLabel>
 #include <QLineEdit>
+#include <QGridLayout>
+#include <QString>
+#include <QDebug>
+#include <QStack>
 
 class MyCalculator : public QWidget
 {
